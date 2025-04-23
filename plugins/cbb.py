@@ -1,4 +1,4 @@
-//from pyrogram import Client 
+#from pyrogram import Client 
 from bot import Bot
 from config import OWNER_ID, ABOUT_TXT, HELP_TXT, START_MSG
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
