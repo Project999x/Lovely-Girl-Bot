@@ -35,8 +35,8 @@ FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002683364273"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #pics
-START_PIC = os.environ.get("START_PIC", "https://envs.sh/rGy.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/rGX.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/1c892bc782ee167eae603-5c83ea0bc1178469da.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/6aa2fb21245974c0a11f0-d6649ec717e5620c27.jpg")
 
 #text
 HELP_TXT = "<blockquote><b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/How_To_Pass_Link>Clickhere</a></b></blockquote>"
